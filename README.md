@@ -35,3 +35,6 @@ Regression Analysis
 Investment Insight
 - The analysis suggests that the mid-cap segment offered the most balanced risk-return profile, combining higher returns with manageable risk.
 - A portfolio that includes a mix of large-cap, mid-cap, and small-cap investments can help optimize returns while effectively managing risk.
+
+<img width="1508" height="849" alt="DashBoard-1" src="https://github.com/user-attachments/assets/a5a6cf19-ed32-433e-bbf7-db6e0f4fb402" />
+<img width="1507" height="851" alt="DashBoard-2" src="https://github.com/user-attachments/assets/0228d6a0-a87e-413b-9e80-9d26d837bd57" />
