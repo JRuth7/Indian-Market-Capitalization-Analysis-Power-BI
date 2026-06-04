@@ -1,4 +1,4 @@
-# Indian-Market-Capitalization-Analysis
+# Indian-Market-Capitalization-Analysis-Power-BI
 Comparative Analysis of Financial Performance Across Market Capitalization Indices in India
 
 About Project:
