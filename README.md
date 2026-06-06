@@ -40,7 +40,6 @@ Key Findings:
 (5) Investment Insight
 - The analysis suggests that the mid-cap segment offered the most balanced risk-return profile, combining higher returns with manageable risk.
 - A portfolio that includes a mix of large-cap, mid-cap, and small-cap investments can help optimize returns while effectively managing risk.
-- 
   
 POWER BI DASHBOARDS
 
